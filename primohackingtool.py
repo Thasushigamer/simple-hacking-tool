@@ -1,3 +1,4 @@
+#BY THASUSHIGAMER https://github.com/Thasushigamer DONT DELETE
 import os
 import webbrowser
 from platform import system
@@ -51,3 +52,5 @@ os.system("exit && python3 primohackingtool.py")
 
 elif  (option==99):
 os.system("exit")
+#BY THASUSHIGAMER https://github.com/Thasushigamer DONT DELETE
+#BY THASUSHIGAMER https://github.com/Thasushigamer DONT DELETE
